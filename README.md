@@ -36,3 +36,7 @@ Análisis del dashboard:
 Conclusión General y recomendaciones:
 
 Reflexión personal de cada integrante:
+
+ADJUNTO LINK A LA PRESENTACION DEL PROYECTO :
+https://view.genially.com/67057f85bc0fc3fcdd2a2e05/presentation-proyecto-lineas-aereas
+
