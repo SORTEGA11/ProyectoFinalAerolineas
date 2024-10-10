@@ -11,7 +11,7 @@ LA Línea Aérea Rusa de vuelos comerciales al estar en un ambiente cada vez má
 Introducción:
 
 La problemática a analizar de la empresa es la disminución en la venta de tickets y una baja en la tasa de ocupación de vuelos
-Se debe identificar rutas y aviones más rentables, nivel de satisfacción de clientes y nivel de reservas no concretadas entre otros.
+Se debe identificar rutas y aviones más rentables, comportamiento de compra de los clientes y nivel de reservas no concretadas 
 
 Objetivo:
 Brindar información valiosa y útil para la toma de decisiones Y que la línea aérea obtenga mejor rentabilidad y mejore la satisfacción de sus clientes,así como también dar respuesta a las problemáticas empresariales a través de los análisis y visualizaciones, a raíz de la toma de decisiones basada en los datos obtenidos, implementación de estrategias para modernizar la flota, optimizar rutas y precios basados en análisis de demanda y costos.
