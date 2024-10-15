@@ -1,5 +1,5 @@
 <h1>**Proyecto : Lineas Aereas Rusas**</h1>
-<img src ="(https://github.com/CYSMANALYTICS/ProyectoFinalAerolineas/tree/main/logo)" alt= "logo empresa">
+<img src ="(https://github.com/CYSMANALYTICS/ProyectoFinalAerolineas/tree/main/logo/logoempresa.jpeg)" alt= "logo empresa">
 
 Quienes somos:
 Somos un equipo de Analistas e Ingenieros de datos ,realizamos analisis profundos para la obtencion de insights e incidencias para brindar solucion a una problematica empresarial , nos une la pasion por los datos!
