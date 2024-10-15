@@ -40,9 +40,9 @@ Python , sql , Power Bi , AWS
 <h2>Conclusión General y recomendaciones: </h2>
 
 
-<h3> ADJUNTO LINK A LA PRESENTACION DEL SPRINT 1 DEL PROYECTO : </h3>
+<h3>  Link a la presentacion del sprint 1 del proyecto : </h3>
 https://view.genially.com/67057f85bc0fc3fcdd2a2e05/presentation-proyecto-lineas-aereas
 
-<h3>ADJUNTO LINK A LA PRESENTACION DEL SPRINT 2 DEL PROYECTO :</h3>
+<h3> Link a la presentacion del sprint 2 del proyecto :</h3>
 
 
