@@ -45,4 +45,4 @@ https://view.genially.com/67057f85bc0fc3fcdd2a2e05/presentation-proyecto-lineas-
 
 <h3> Link a la presentacion del sprint 2 del proyecto :</h3>
 
-
+https://www.canva.com/design/DAGTk0jLX8g/o-fRcTuN_YjcqvkJDLDkYg/edit?utm_content=DAGTk0jLX8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
