@@ -1,5 +1,8 @@
 <h1>**Proyecto : Lineas Aereas Rusas**</h1>
-<img src ="https://github.com/CYSMANALYTICS/ProyectoFinalAerolineas/tree/main/logo/logoempresa.jpeg" alt= "logo empresa">
+"https://github.com/CYSMANALYTICS/ProyectoFinalAerolineas/tree/main/logo/logoempresa.jpeg" 
+<img src =
+"BreadcrumbsProyectoFinalAerolineas
+/DALL·E 2024-10-07 19.32.45 - A sleek, modern logo for a Russian airline company. The design should feature an abstract representation of flight, incorporating smooth lines that su.jpeg" alt= "logo empresa">  
 
 Quienes somos:
 Somos un equipo de Analistas e Ingenieros de datos ,realizamos analisis profundos para la obtencion de insights e incidencias para brindar solucion a una problematica empresarial , nos une la pasion por los datos!
