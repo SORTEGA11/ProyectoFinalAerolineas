@@ -38,7 +38,10 @@ Python , sql , Power Bi , AWS
 
 
 <h2>Conclusión General y recomendaciones: </h2>
-
+1-Acciones de Marketing para aumentar la compra de tickets
+2-Asegurar la ocupación  plena con acciónes tendientes a adelantar la compra de pasajes
+3-Ofrecer descuentos y promociónes
+4-Disminuir la frecuencia de vuelos o usar naves de menor capacidad
 
 <h3>  Link a la presentacion del sprint 1 del proyecto : </h3>
 https://view.genially.com/67057f85bc0fc3fcdd2a2e05/presentation-proyecto-lineas-aereas
