@@ -34,7 +34,7 @@ Se encuentra dentro del alcance de este proyecto:
 
 <h2> Stack tecnologico: </h2>
 
-Python , sql , Power Bi , AWS 
+Python , SQL , Power Bi , AWS 
 
 
 <h2>Conclusión General y recomendaciones: </h2>
