@@ -4,7 +4,7 @@
 alt= "logo empresa">  
 
 <h2>Quienes somos: </h2>
-Somos un equipo de Analistas e Ingenieros de datos ,realizamos analisis profundos para la obtencion de insights e incidencias para brindar solucion a una problematica empresarial , nos une la pasion por los datos!
+Somos un equipo de Analistas e Ingenieros de datos, realizamos analisis profundos para la obtencion de insights e incidencias para brindar solucion a una problematica empresarial , nos une la pasion por los datos!
 
 <h2>Descripcion del Proyecto: </h2>
 
